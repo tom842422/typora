@@ -1,0 +1,2 @@
+# typora
+config Picgo
